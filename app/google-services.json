@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240151085034",
+    "project_id": "first-firebaseapp-52d00",
+    "storage_bucket": "first-firebaseapp-52d00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240151085034:android:e44be2c8d7f1d3da2b3c93",
+        "android_client_info": {
+          "package_name": "com.example.bookplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240151085034-u2rc2sfjc5fffko47o44agr1oe51e0u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookplace",
+            "certificate_hash": "c9457531e40b752c444faa28cee2f7ab1b860934"
+          }
+        },
+        {
+          "client_id": "240151085034-k6ck6chevt5dhn6naloiefeg3ful50pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1eHifMa_xuxFfeEzwz18kLd66dBpnK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240151085034-k6ck6chevt5dhn6naloiefeg3ful50pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
